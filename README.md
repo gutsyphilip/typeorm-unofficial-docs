@@ -1,22 +1,11 @@
 # Nextra Docs Template 
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+TypeORM is a great tool, but the docs suck.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+Working with it over the past couple of months have made that clear to me. I have no intentions of breaking up with it anytime soon, so I figured I'd spin this up and write better guides for things as I work with them and hopefully leave things better off for the next person.
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+Cheers!
 
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
 
 ## License
 
